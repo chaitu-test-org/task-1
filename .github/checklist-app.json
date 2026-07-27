@@ -1,1 +1,12 @@
-
+{
+  "messages": {
+    "block_close": "🚫 Custom Config: You cannot close this issue because {count} checklist item(s) are incomplete.\n\nPending items:\n{items}",
+    "warn_close": "⚠️ Custom Config: This issue was closed with {count} incomplete checklist item(s).\n\nPending items:\n{items}",
+    "exception_approved_notify": "✅ Custom Config: Your exception request has been approved.",
+    "no_template": "ℹ️ Custom Config: No checklist template exists for this issue type.",
+    "checklist_exists": "📋 Custom Config: A checklist already exists for this issue.",
+    "type_change_merge": "🔄 Custom Config: The issue type changed. Existing checklist has been merged.",
+    "transfer_merge": "📦 Custom Config: Issue transferred. Existing checklist has been merged.",
+    "state_corrupted": "❌ Custom Config: The checklist state is corrupted. Please recreate the checklist."
+  }
+}
