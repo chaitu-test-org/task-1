@@ -1,5 +1,5 @@
 ---
-enforcementLevel: Block
+
 ---
 
 ## Bug Investigation Checklist
